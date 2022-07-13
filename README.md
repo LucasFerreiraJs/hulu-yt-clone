@@ -10,7 +10,7 @@
 
 
 ## Sobre o Projeto
-Atividade seguindo tutorial Hulu 2.0 clone [Sonny Sangha](https://www.youtube.com/watch?v=MqDlsjc8GLo). A aplicação é um exercício com [NextJs](https://nextjs.org/) e [tailwindcss](https://tailwindcss.com/) onde consomimos a api [themoviedb](https://www.themoviedb.org/) e atualizamos o catalogo de filmes em tela de acordo com a categoria.
+Atividade seguindo tutorial Hulu 2.0 clone [Sonny Sangha](https://www.youtube.com/watch?v=MqDlsjc8GLo). A aplicação é um exercício com [NextJs](https://nextjs.org/) e [tailwindcss](https://tailwindcss.com/) onde consumimos a api [themoviedb](https://www.themoviedb.org/) e atualizamos o catalogo de filmes em tela de acordo com a categoria.
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
